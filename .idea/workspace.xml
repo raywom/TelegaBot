@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f7dab46-cfd0-49e9-b5bc-ac5b61ed2230" name="Default Changelist" comment="add pizdec">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MainClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegramGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/telegramGame.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin Worksheet" />
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ePCfbupOulww4lcP7ttZuKjrHm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver&#10;mariadb" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="f30178a5-ad9e-49c5-88d8-6db1d1a78ca8" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="DestinationChooserDialog.Package.RECENTS_KEY">
+      <recent name="dbuse" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="dbuse" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TheBl\Documents\GitHub\TelegramBot\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TelegramBotAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="telegramGame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TelegramBotAppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TelegramBotAppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7dab46-cfd0-49e9-b5bc-ac5b61ed2230" name="Default Changelist" comment="" />
+      <created>1594213944117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594213944117</updated>
+      <workItem from="1594213949052" duration="799000" />
+      <workItem from="1594357620107" duration="1845000" />
+      <workItem from="1594378510843" duration="764000" />
+      <workItem from="1594379287783" duration="581000" />
+      <workItem from="1594379883659" duration="1013000" />
+      <workItem from="1594385858338" duration="1860000" />
+      <workItem from="1594387726663" duration="2383000" />
+      <workItem from="1594402719199" duration="5902000" />
+      <workItem from="1594491956135" duration="4073000" />
+      <workItem from="1594543745903" duration="2941000" />
+      <workItem from="1594546743442" duration="3646000" />
+      <workItem from="1595582140439" duration="1201000" />
+      <workItem from="1595670292274" duration="109000" />
+      <workItem from="1595670467271" duration="2887000" />
+      <workItem from="1595763461039" duration="3688000" />
+      <workItem from="1595919451123" duration="11475000" />
+      <workItem from="1596010765828" duration="7779000" />
+      <workItem from="1596535088222" duration="6537000" />
+      <workItem from="1597157760846" duration="2246000" />
+      <workItem from="1597334319423" duration="770000" />
+      <workItem from="1597404379229" duration="589000" />
+      <workItem from="1597494802608" duration="9335000" />
+      <workItem from="1597562235968" duration="1203000" />
+      <workItem from="1597678068100" duration="1289000" />
+      <workItem from="1597761293616" duration="2890000" />
+      <workItem from="1597830239070" duration="1219000" />
+      <workItem from="1597905117964" duration="6280000" />
+      <workItem from="1598181199232" duration="1769000" />
+      <workItem from="1598340141451" duration="5457000" />
+      <workItem from="1598376120428" duration="356000" />
+      <workItem from="1598426468978" duration="587000" />
+      <workItem from="1598596974672" duration="1202000" />
+      <workItem from="1598766087009" duration="1455000" />
+      <workItem from="1598852659813" duration="4262000" />
+      <workItem from="1599135302569" duration="4371000" />
+      <workItem from="1599378429104" duration="3086000" />
+      <workItem from="1599467448237" duration="8531000" />
+      <workItem from="1601198732695" duration="2624000" />
+      <workItem from="1601295012958" duration="587000" />
+      <workItem from="1609637689696" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="add show_maps button">
+      <created>1594548496263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594548496263</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add pizdec">
+      <created>1595694104157</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595694104157</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add pizdec">
+      <created>1597334529335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597334529336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add pizdec">
+      <created>1598345797316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598345797316</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add show_maps button" />
+    <MESSAGE value="add pizdec" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pizdec" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="383" key="#Notifications" timestamp="1594377997761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1594377997761" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598345605155">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598345605155" />
+    <state x="751" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1596020009303">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596020009303" />
+    <state x="690" y="296" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1598344999693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="296" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598344999693" />
+    <state x="587" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1598345335420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598345335420" />
+    <state x="630" y="250" width="659" height="715" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog" timestamp="1597155495728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="630" y="250" width="659" height="715" key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597155495728" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595670344341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595670344341" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598889541205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598889541205" />
+    <state x="640" y="275" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1598344463553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="275" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1920.1040@0.0.1920.1040" timestamp="1598344463553" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1598345697322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598345697322" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1599496355892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599496355892" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1599496355892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599496355892" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1599496355892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599496355892" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1599496355892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599496355892" />
+    <state width="1877" height="483" key="GridCell.Tab.1.bottom" timestamp="1599495238362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="483" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599495238362" />
+    <state width="1877" height="483" key="GridCell.Tab.1.center" timestamp="1599495238362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="483" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599495238362" />
+    <state width="1877" height="483" key="GridCell.Tab.1.left" timestamp="1599495238362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="483" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599495238362" />
+    <state width="1877" height="483" key="GridCell.Tab.1.right" timestamp="1599495238362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="483" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599495238362" />
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom" timestamp="1596015619784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596015619784" />
+    <state width="1877" height="348" key="GridCell.Tab.2.center" timestamp="1596015619783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596015619783" />
+    <state width="1877" height="348" key="GridCell.Tab.2.left" timestamp="1596015619783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596015619783" />
+    <state width="1877" height="348" key="GridCell.Tab.2.right" timestamp="1596015619784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596015619784" />
+    <state width="194" height="463" key="HiddenNamespacesPopup" timestamp="1598344313402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="194" height="463" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1598344313402" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1596553815828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596553815828" />
+    <state x="240" y="169" width="1499" height="851" key="SettingsEditor" timestamp="1598345349537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="240" y="169" width="1499" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598345349537" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1594546674310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1594546674310" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599385953629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599385953629" />
+    <state x="999" y="286" width="585" height="534" key="find.popup" timestamp="1599484174929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="999" y="286" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599484174929" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596013923395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596013923395" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/java/BasicMethods.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.fasterxml.jackson.databind.deser.DefaultDeserializationContext$Impl" memberName="_config" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="((Impl)((ObjectMapper)mapper)._deserializationContext)._injectableValues" custom="com.fasterxml.jackson.databind.ObjectMapper,com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.Impl" />
+        <watch expression="((ObjectMapper)mapper)._deserializationContext" custom="com.fasterxml.jackson.databind.ObjectMapper" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/telegramGame$TelegramBotAppKt.ic" NAME="TelegramBotAppKt Coverage Results" MODIFIED="1594546479218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

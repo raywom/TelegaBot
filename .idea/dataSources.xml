@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="pryatki_ebanye@localhost" uuid="f30178a5-ad9e-49c5-88d8-6db1d1a78ca8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pryatki_ebanye</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hide_seek@35.228.82.199" uuid="02eb9ded-3c1b-425e-9d1b-9adaefb4b2cc">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://35.228.82.199:3306/hide_seek</jdbc-url>
+    </data-source>
+  </component>
+</project>
